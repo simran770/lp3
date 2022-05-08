@@ -45,3 +45,5 @@ print()
 
 if(Ka == Kb):
     print(f"Symmetric Secret Key for Encryption: {Ka}")
+else:
+    print(f"Its not same. Eroor while generting keys")
